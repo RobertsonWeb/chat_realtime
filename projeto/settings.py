@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^yh!&qlwvu_23#+xem6d%9454=+*^7&0(rz=nmbis^d=wj@uv+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'chatrealtime.ersistemas.info']
 
 
 # Application definition
